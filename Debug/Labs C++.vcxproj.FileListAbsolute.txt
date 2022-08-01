@@ -1,0 +1,8 @@
+C:\Users\lenovo\source\repos\Labs C++\Debug\Labs C++.exe
+C:\Users\lenovo\source\repos\Labs C++\Debug\Labs C++.pdb
+C:\Users\lenovo\Desktop\برمجة\Labs C++\Debug\Labs C++.exe
+C:\Users\lenovo\Desktop\برمجة\Labs C++\Debug\Labs C++.pdb
+C:\Users\lenovo\Desktop\برمجة\تدريب\Debug\Labs C++.exe
+C:\Users\lenovo\Desktop\برمجة\تدريب\Debug\Labs C++.pdb
+C:\Users\lenovo\Desktop\Programming\final project\Debug\Labs C++.exe
+C:\Users\lenovo\Desktop\Programming\final project\Debug\Labs C++.pdb

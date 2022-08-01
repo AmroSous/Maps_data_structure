@@ -1,0 +1,42 @@
+﻿  Source.cpp
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(74,15): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(74,15): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(74,15): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(74,15): message : this argument is used as a buffer size
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(80,16): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(80,16): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(80,16): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(80,16): message : this argument is used as a buffer size
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(134,15): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(134,15): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(134,15): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(134,15): message : this argument is used as a buffer size
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(140,16): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(140,16): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(140,16): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(140,16): message : this argument is used as a buffer size
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(184,15): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(184,15): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(184,15): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(184,15): message : this argument is used as a buffer size
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(190,16): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(190,16): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(190,16): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(190,16): message : this argument is used as a buffer size
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(208,17): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(208,17): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(208,17): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(208,17): message : this argument is used as a buffer size
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(222,15): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(222,15): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(222,15): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(222,15): message : this argument is used as a buffer size
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(228,16): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(228,16): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(228,16): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(228,16): message : this argument is used as a buffer size
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(246,17): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(246,17): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(246,17): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\lenovo\Desktop\Programming\final project\Source.cpp(246,17): message : this argument is used as a buffer size
+  Labs C++.vcxproj -> C:\Users\lenovo\Desktop\Programming\final project\Debug\Labs C++.exe
